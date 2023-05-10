@@ -1,0 +1,16 @@
+/* 
+conteneur{
+    padding: 100px;
+}
+lines{
+    width: 100px;
+    height: 45px;
+    position:relative;
+}
+
+lines::after, .lines::before{
+    content: "";
+    position: absolute;
+    height: 2px;
+    background: #fff;
+*/
